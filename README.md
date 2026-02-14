@@ -1,5 +1,7 @@
 # 📘 Simple Note API (Node.js + Express + MongoDB)
 
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/2fd14370-de68-4b42-9525-26e1b8febaf1" />
+
 A simple REST API for creating, updating, deleting and reading notes using **Node.js, Express and MongoDB (Mongoose)**.
 
 ---
